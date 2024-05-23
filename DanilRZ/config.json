@@ -1,0 +1,21 @@
+{
+  "conversion_factors": {
+    "mm": 1,
+    "cm": 0.1,
+    "m": 0.001
+  },
+  "nails": [
+    {"name":  "Гвозди", "unit_of_measurement":  "mm", "size": 2, "count": 3012, "name_size": "M2"},
+    {"name":  "Гвозди", "unit_of_measurement":  "mm", "size": 1, "count": 223, "name_size": "M1"},
+    {"name":  "Гвозди", "unit_of_measurement":  "mm", "size": 4, "count": 55, "name_size": "M4"},
+    {"name":  "Гвозди", "unit_of_measurement":  "mm", "size": 6, "count": 7182, "name_size": "M6"},
+    {"name":  "Гвозди", "unit_of_measurement":  "mm", "size": 3, "count": 2323, "name_size": "M3"},
+    {"name":  "Гвозди", "unit_of_measurement":  "mm", "size": 5, "count": 20013, "name_size": "M5"}
+  ],
+  "paints": [
+    {"name": "Маслянная краска", "unit":  "мл", "color": "Красный", "count":  32, "volume":  5, "paint_type":  "Oil"},
+    {"name": "Маслянная краска", "unit":  "литры", "color": "Зеленый", "count":  92, "volume":  3, "paint_type":  "Oil"},
+    {"name": "Нитроэмалевая краска", "unit":  "литры", "color": "Голубой", "count":  20, "volume":  5, "diluents":  ["Вода", "Растворитель"]},
+    {"name": "Нитроэмалевая краска", "unit":  "литры", "color": "Желтый", "count":  2, "volume":  4, "diluents":  ["Лимонад", "Сок"]}
+  ]
+}
